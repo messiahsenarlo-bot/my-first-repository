@@ -10,9 +10,9 @@
 
 ## What I Learned
 
--Git tracks changes to files.
--GitHub hosts repositories online.
--Commits record changes in the project history.
+- Git tracks changes to files.
+- GitHub hosts repositories online.
+- Commits record changes in the project history.
 
 ## My Computing Goals
 
